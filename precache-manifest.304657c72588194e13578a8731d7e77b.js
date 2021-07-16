@@ -1,31 +1,27 @@
 self.__precacheManifest = [
   {
-    "revision": "9b54b6dc8062de032e82",
+    "revision": "673b7ee3a3cdcf963a26",
     "url": "/static/css/main.0c3437cf.chunk.css"
   },
   {
-    "revision": "9b54b6dc8062de032e82",
-    "url": "/static/js/main.9b54b6dc.chunk.js"
+    "revision": "673b7ee3a3cdcf963a26",
+    "url": "/static/js/main.673b7ee3.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.42ac5946.js"
   },
   {
-    "revision": "0c5d9522dc10fa091a9f",
+    "revision": "fe3d99f85453890eb9ff",
     "url": "/static/css/2.3a104c5c.chunk.css"
   },
   {
-    "revision": "0c5d9522dc10fa091a9f",
-    "url": "/static/js/2.0c5d9522.chunk.js"
+    "revision": "fe3d99f85453890eb9ff",
+    "url": "/static/js/2.fe3d99f8.chunk.js"
   },
   {
-    "revision": "273449dde1692c758f0ea2159aef1004",
-    "url": "/static/media/home.273449dd.svg"
-  },
-  {
-    "revision": "b6eea2805b284fec8de9d0dda8d24bcf",
-    "url": "/static/media/liquidityPool.b6eea280.svg"
+    "revision": "34cad773efef8a35a3736621e7c847aa",
+    "url": "/static/media/lightPaper.34cad773.pdf"
   },
   {
     "revision": "6d9813e305829a8356c41c594681f7eb",
@@ -128,7 +124,7 @@ self.__precacheManifest = [
     "url": "/static/media/bg.77c9d968.png"
   },
   {
-    "revision": "d21968b81e8710749073eab24fc3b4d9",
+    "revision": "bc1b508b5a4747c9db0e02cd311556b5",
     "url": "/index.html"
   }
 ];
